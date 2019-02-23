@@ -9,7 +9,7 @@
     <link>https://marriedandovergrown.github.io/podcast/</link>
     <atom:link href="https://marriedandovergrown.github.io/podcast/rss.xml" rel="self" type="application/rss+xml"/>
     <generator>vscode</generator>
-    <lastBuildDate>Fri, 01 Feb 2019 03:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Feb 2019 04:20:16 GMT</lastBuildDate>
     <pubDate>Fri, 01 Feb 2019 03:19:06 GMT</pubDate>
     <itunes:author>Married and Overgrown</itunes:author>
     <itunes:subtitle>一對介於千禧世代與Ｚ世代之間的台灣年輕夫妻，對百百種沒有出現在日常生活中的事情討論了起來。</itunes:subtitle>
@@ -127,6 +127,27 @@
       <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+      <title>Ep6. 十幾歲發生性行為!?第一次的感覺......</title>
+      <description>十幾歲的小孩就會開始交往、性行為!?小孩要幾歲你才可以接受這件事?不然你跟他說你第一次感覺......</description>
+      <link>https://marriedandovergrown.github.io/podcast/</link>
+      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/ep6.m4a" length="51623366" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/ep6.m4a</guid>
+      <pubDate>Sat, 23 Feb 2019 04:20:16 GMT</pubDate>
+      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <author>nalu08092015@gmail.com (Married and Overgrown)</author>
+      <itunes:author>Married and Overgrown</itunes:author>
+      <itunes:title>Ep6. 十幾歲發生性行為!?第一次的感覺......</itunes:title>
+      <itunes:subtitle>十幾歲的小孩就會開始交往、性行為!?小孩要幾歲你才可以接受這件事?不然你跟他說你第一次感覺......</itunes:subtitle>
+      <itunes:summary>十幾歲的小孩就會開始交往、性行為!?小孩要幾歲你才可以接受這件事?不然你跟他說你第一次感覺......</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:00:25</itunes:duration>
+      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
