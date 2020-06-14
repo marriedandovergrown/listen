@@ -6,8 +6,8 @@
     <language>zh-tw</language>
     <copyright>Married and Overgrown</copyright>
     <ttl>60</ttl>
-    <link>https://marriedandovergrown.github.io/podcast/</link>
-    <atom:link href="https://marriedandovergrown.github.io/podcast/rss.xml" rel="self" type="application/rss+xml"/>
+    <link>https://marriedandovergrown.github.io/listen/</link>
+    <atom:link href="https://marriedandovergrown.github.io/listen/rss.xml" rel="self" type="application/rss+xml"/>
     <generator>vscode</generator>
     <lastBuildDate>Mon, 01 Jun 2020 01:28:53 GMT</lastBuildDate>
     <pubDate>Fri, 01 Feb 2019 03:19:06 GMT</pubDate>
@@ -23,16 +23,16 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Personal Journals" />
     </itunes:category>
-    <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+    <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
 
     <item>
       <title>Ep1. 你的family也是我的family? 定義FAMILY!</title>
       <description>結婚之後，你的family也是我的family、我的family是你的family? Family(家人、家庭)的定義是什麼? 有了婚姻後，我的family到底是怎麼樣?</description>
-      <link>https://marriedandovergrown.github.io/podcast/</link>
-      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/s1ep1.m4a" length="47120024" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/s1ep1.m4a</guid>
+      <link>https://marriedandovergrown.github.io/listen/</link>
+      <enclosure url="https://marriedandovergrown.github.io/listen/sources/s1ep1.m4a" length="47120024" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/listen/sources/s1ep1.m4a</guid>
       <pubDate>Fri, 01 Feb 2019 03:19:06 GMT</pubDate>
-      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <source url="https://marriedandovergrown.github.io/listen/">Married and Overgrown Journal</source>
       <author>nalu08092015@gmail.com (Married and Overgrown)</author>
       <itunes:author>Married and Overgrown</itunes:author>
       <itunes:title>Ep1. 你的family也是我的family? 定義FAMILY!</itunes:title>
@@ -40,7 +40,7 @@
       <itunes:summary>結婚之後，你的family也是我的family、我的family是你的family?</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>52:29</itunes:duration>
-      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,11 +49,11 @@
     <item>
       <title>Ep2. 迪士尼能有Gay王子或T公主的故事?</title>
       <description>迪士尼的公主與王子的故事能變成公主與公主或王子與王子的故事嗎? 五歲的性教育要講什麼? 小孩子從小只聽同性戀的故事可以嗎? 會怎樣?</description>
-      <link>https://marriedandovergrown.github.io/podcast/</link>
-      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/s1ep2.m4a" length="35820655" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/s1ep2.m4a</guid>
+      <link>https://marriedandovergrown.github.io/listen/</link>
+      <enclosure url="https://marriedandovergrown.github.io/listen/sources/s1ep2.m4a" length="35820655" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/listen/sources/s1ep2.m4a</guid>
       <pubDate>Fri, 01 Feb 2019 03:19:06 GMT</pubDate>
-      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <source url="https://marriedandovergrown.github.io/listen/">Married and Overgrown Journal</source>
       <author>nalu08092015@gmail.com (Married and Overgrown)</author>
       <itunes:author>Married and Overgrown</itunes:author>
       <itunes:title>Ep2. 迪士尼能有Gay王子或T公主的故事?</itunes:title>
@@ -61,7 +61,7 @@
       <itunes:summary>迪士尼的公主與王子的故事能變成公主與公主或王子與王子的故事嗎? 性教育要講什麼?</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>39:36</itunes:duration>
-      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -70,11 +70,11 @@
     <item>
       <title>Ep3. 一定要有孫子嗎?</title>
       <description>先不管要不要有小孩，你可以接受沒有孫子嗎? 為什麼大家那麼在意要有後代?「想生不想生」與「有錢沒有錢」; 你，生嗎?</description>
-      <link>https://marriedandovergrown.github.io/podcast/</link>
-      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/s1ep3.m4a" length="19092308" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/s1ep3.m4a</guid>
+      <link>https://marriedandovergrown.github.io/listen/</link>
+      <enclosure url="https://marriedandovergrown.github.io/listen/sources/s1ep3.m4a" length="19092308" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/listen/sources/s1ep3.m4a</guid>
       <pubDate>Fri, 01 Feb 2019 03:19:06 GMT</pubDate>
-      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <source url="https://marriedandovergrown.github.io/listen/">Married and Overgrown Journal</source>
       <author>nalu08092015@gmail.com (Married and Overgrown)</author>
       <itunes:author>Married and Overgrown</itunes:author>
       <itunes:title>Ep3. 一定要有孫子嗎?</itunes:title>
@@ -82,7 +82,7 @@
       <itunes:summary>為什麼大家那麼在意要有後代? 你可以接受沒有孫子嗎?</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>20:59</itunes:duration>
-      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -91,11 +91,11 @@
     <item>
       <title>Ep4. 什麼是U好(上): 你要回家長照父母嗎?</title>
       <description>什麼是U好(孝順)? 順著長輩/父母就是U好嗎? 為了要孝順父母，你可以放棄自己的人生嗎?</description>
-      <link>https://marriedandovergrown.github.io/podcast/</link>
-      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/s1ep4.m4a" length="40510497" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/s1ep4.m4a</guid>
+      <link>https://marriedandovergrown.github.io/listen/</link>
+      <enclosure url="https://marriedandovergrown.github.io/listen/sources/s1ep4.m4a" length="40510497" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/listen/sources/s1ep4.m4a</guid>
       <pubDate>Fri, 01 Feb 2019 03:19:06 GMT</pubDate>
-      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <source url="https://marriedandovergrown.github.io/listen/">Married and Overgrown Journal</source>
       <author>nalu08092015@gmail.com (Married and Overgrown)</author>
       <itunes:author>Married and Overgrown</itunes:author>
       <itunes:title>Ep4. 什麼是U好(上): 你要回家長照父母嗎?</itunes:title>
@@ -103,7 +103,7 @@
       <itunes:summary>什麼是U好(孝順)? 順著長輩/父母就是U好嗎? 為了要孝順父母，你可以放棄自己的人生嗎?</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>44:13</itunes:duration>
-      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -112,11 +112,11 @@
     <item>
       <title>Ep5. 什麼是U好(下): 父母在路上流浪可以嗎?</title>
       <description>什麼是U好(孝順)? 如果U好造成自身巨大的痛苦，那還能U好嗎? 如果你父母養老的方式就是在路上流浪?</description>
-      <link>https://marriedandovergrown.github.io/podcast/</link>
-      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/s1ep5.m4a" length="24747494" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/s1ep5.m4a</guid>
+      <link>https://marriedandovergrown.github.io/listen/</link>
+      <enclosure url="https://marriedandovergrown.github.io/listen/sources/s1ep5.m4a" length="24747494" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/listen/sources/s1ep5.m4a</guid>
       <pubDate>Fri, 01 Feb 2019 03:19:06 GMT</pubDate>
-      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <source url="https://marriedandovergrown.github.io/listen/">Married and Overgrown Journal</source>
       <author>nalu08092015@gmail.com (Married and Overgrown)</author>
       <itunes:author>Married and Overgrown</itunes:author>
       <itunes:title>Ep5. 什麼是U好(下): 父母在路上流浪可以嗎?</itunes:title>
@@ -124,7 +124,7 @@
       <itunes:summary>什麼是U好(孝順)? 如果U好造成自身巨大的痛苦，那還能U好嗎? 如果你父母養老的方式就是在路上流浪?</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>27:09</itunes:duration>
-      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -133,11 +133,11 @@
     <item>
       <title>Ep6. 十幾歲發生性行為!?第一次的感覺......</title>
       <description>十幾歲的小孩就會開始交往、性行為!?小孩要幾歲你才可以接受這件事?不然你跟他說你第一次感覺......</description>
-      <link>https://marriedandovergrown.github.io/podcast/</link>
-      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/s1ep6.m4a" length="51623366" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/s1ep6.m4a</guid>
+      <link>https://marriedandovergrown.github.io/listen/</link>
+      <enclosure url="https://marriedandovergrown.github.io/listen/sources/s1ep6.m4a" length="51623366" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/listen/sources/s1ep6.m4a</guid>
       <pubDate>Sat, 23 Feb 2019 04:20:16 GMT</pubDate>
-      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <source url="https://marriedandovergrown.github.io/listen/">Married and Overgrown Journal</source>
       <author>nalu08092015@gmail.com (Married and Overgrown)</author>
       <itunes:author>Married and Overgrown</itunes:author>
       <itunes:title>Ep6. 十幾歲發生性行為!?第一次的感覺......</itunes:title>
@@ -145,7 +145,7 @@
       <itunes:summary>十幾歲的小孩就會開始交往、性行為!?小孩要幾歲你才可以接受這件事?不然你跟他說你第一次感覺......</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>01:00:25</itunes:duration>
-      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -154,11 +154,11 @@
     <item>
       <title>Ep7. 清明節老婆回家掃自己的祖先的墓吧！拜拜只是想吃炸的啊！</title>
       <description>清明節老婆不掃不拜夫家的祖先，老公說他會去買炸的來拜；家族故事，從我們這代開始流傳！</description>
-      <link>https://marriedandovergrown.github.io/podcast/</link>
-      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/s1ep7.m4a" length="25981425" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/s1ep7.m4a</guid>
+      <link>https://marriedandovergrown.github.io/listen/</link>
+      <enclosure url="https://marriedandovergrown.github.io/listen/sources/s1ep7.m4a" length="25981425" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/listen/sources/s1ep7.m4a</guid>
       <pubDate>Sun, 24 Mar 2019 20:42:17 GMT</pubDate>
-      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <source url="https://marriedandovergrown.github.io/listen/">Married and Overgrown Journal</source>
       <author>nalu08092015@gmail.com (Married and Overgrown)</author>
       <itunes:author>Married and Overgrown</itunes:author>
       <itunes:title>Ep7. 清明節老婆回家掃自己的祖先的墓吧！拜拜只是想吃炸的啊！</itunes:title>
@@ -166,7 +166,7 @@
       <itunes:summary>清明節老婆不掃不拜夫家的祖先，老公說他會去買炸的來拜；家族故事，從我們這代開始流傳！</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>26:42</itunes:duration>
-      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -175,11 +175,11 @@
     <item>
       <title>Ep8. 單身怎麼了嗎？</title>
       <description>年過三十還單身的女子在鄉里間「互相學習」；單身男子走上路上會被視為潛在危險因子子？！如果我們年過三十還單身，就要投入相親配對的人肉市場⋯⋯</description>
-      <link>https://marriedandovergrown.github.io/podcast/</link>
-      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/s1ep8.m4a" length="40931659" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/s1ep8.m4a</guid>
+      <link>https://marriedandovergrown.github.io/listen/</link>
+      <enclosure url="https://marriedandovergrown.github.io/listen/sources/s1ep8.m4a" length="40931659" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/listen/sources/s1ep8.m4a</guid>
       <pubDate>Sat, 11 May 2019 04:46:23 GMT</pubDate>
-      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <source url="https://marriedandovergrown.github.io/listen/">Married and Overgrown Journal</source>
       <author>nalu08092015@gmail.com (Married and Overgrown)</author>
       <itunes:author>Married and Overgrown</itunes:author>
       <itunes:title>Ep8. 單身怎麼了嗎？</itunes:title>
@@ -187,7 +187,7 @@
       <itunes:summary>年過三十還單身的女子在鄉里間「互相學習」；單身男子走上路上會被視為潛在危險因子子？！如果我們年過三十還單身，就要投入相親配對的人肉市場⋯⋯</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>47:07</itunes:duration>
-      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -196,11 +196,11 @@
     <item>
       <title>Ep1. 抗議黑人之死要搶LV包包？宵禁即決戰之夜！</title>
       <description>波特蘭抗議白人警察執法過當的群眾抗議兼搶精品？晚間八點到隔天早上六點的宵禁是警民決戰時間？美國種族歧視很嚴重？還是COVID-19嚴重？</description>
-      <link>https://marriedandovergrown.github.io/podcast/</link>
-      <enclosure url="https://marriedandovergrown.github.io/podcast/sources/s2ep1.m4a" length="43421957" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://marriedandovergrown.github.io/podcast/sources/s2ep1.m4a</guid>
+      <link>https://marriedandovergrown.github.io/listen/</link>
+      <enclosure url="https://marriedandovergrown.github.io/listen/sources/s2ep1.m4a" length="43421957" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://marriedandovergrown.github.io/listen/sources/s2ep1.m4a</guid>
       <pubDate>Mon, 01 Jun 2020 01:28:53 GMT</pubDate>
-      <source url="https://marriedandovergrown.github.io/podcast/">Married and Overgrown Journal</source>
+      <source url="https://marriedandovergrown.github.io/listen/">Married and Overgrown Journal</source>
       <author>nalu08092015@gmail.com (Married and Overgrown)</author>
       <itunes:author>Married and Overgrown</itunes:author>
       <itunes:title>Ep1. 抗議黑人之死要搶LV包包？宵禁即決戰之夜！</itunes:title>
@@ -208,7 +208,7 @@
       <itunes:summary>波特蘭抗議白人警察執法過當的群眾抗議兼搶精品？晚間八點到隔天早上六點的宵禁是警民決戰時間？美國種族歧視很嚴重？還是COVID-19嚴重？</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>44:40</itunes:duration>
-      <itunes:image href="https://marriedandovergrown.github.io/podcast/cover.png"/>
+      <itunes:image href="https://marriedandovergrown.github.io/listen/cover.png"/>
       <itunes:season>2</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
